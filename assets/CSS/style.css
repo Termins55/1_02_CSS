@@ -78,18 +78,18 @@ h3 {
     height: 100%;
     width: 100%;
     background-position: center;
-    padding-top: 25px;
     margin: 0 auto;
     max-width: 1000px;
+    padding: 50px 10px;
 }
 
 .div-development {
     height: 600px;
-    width: 100%;
     background-color: #333;
-    padding: 40px;
-    margin-top: 50px;  
-    margin-bottom: 50px;      
+    max-width: 2000px;
+    width: 100%;
+    padding: 50px 10px;
+    margin: 0 auto;
 }
 
 .div-lor-1,
@@ -110,17 +110,16 @@ img {
 }
 
 .we-handle {
-    height: 100%;
-    padding-bottom: 50px;
+    max-width: 1000px;
+    width: 100%;
+    padding: 50px 10px;
+    margin: 0 auto;
 }
 
 .p-main {
-    height: 20px;
-    width: 53%;
-    margin: 0 auto;
     padding-top: 60px;
     white-space: pre-line;
-    padding-bottom: 60px;
+    padding-bottom: 30px;
 }
 
 .footer-div {
@@ -151,7 +150,6 @@ img {
 }
 
 .p-footer {
-    /* padding-top: 50px; */
     padding: 30px 30px 30px 30px;
 }
 
