@@ -15,6 +15,12 @@ header {
     color: white;
     font-family: system-ui;
 }
+.center-wrapper {
+    margin: 0 auto;
+    max-width: 1000px;
+    width: 100%;
+    padding: 100px 10px;
+}
 
 body {
     font-family: system-ui;
@@ -28,15 +34,11 @@ h1 {
     height: 100px;
     font-size: 36px;
     white-space: pre-line;
-    padding-top: 100px;
 }
 
 .p-header {
     color: white;
-    height: 20px;
-    width: 60%;
     margin: 0 auto;
-    padding-top: 60px;
     white-space: pre-line;
 }
 
@@ -48,7 +50,7 @@ h1 {
     border: 1px solid white; 
     background-color: #333;
     display: inline-block;
-    margin-top: 80px;
+    margin-top: 40px;
 }
 
 .link-to-div:hover {
@@ -79,6 +81,7 @@ h3 {
     width: 100%;
     background-position: center;
     padding-top: 25px;
+
 }
 
 .div-development {
